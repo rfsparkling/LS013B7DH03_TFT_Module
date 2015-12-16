@@ -1,4 +1,4 @@
-![layout preview](https://github.com/ha7dcd/Eagle-parts/blob/master/LS013B7DH03_TFT_Module/LS013B7DH03_TFT_Module_preview.png)
+![layout preview](https://github.com/rfsparkling/blob/master/LS013B7DH03_TFT_Module/LS013B7DH03_TFT_Module_preview.png)
 
 
 1.28-inch (diagonal) Memory LCD with Voltage Level Shifter and LDO, in Eagle CAD
